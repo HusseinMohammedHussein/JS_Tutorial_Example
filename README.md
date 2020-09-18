@@ -1,7 +1,7 @@
 # Index:
   1) [**Introduction to JavaScript**](#Introduction-to-JavaScript)
       * [**JS With HTML**](#JS-With-HTML)
-      * [**Where can I use JavaScript?**](#Where-can-I-use-JavaScript?)      
+      * [**Where can I use JavaScript?**](#Where-can-I-use-JavaScript)      
       * [**JS Functions and Events**](#JS-Functions-and-Events)
       * [**External JavaScript**](#External-JavaScript)      
       * [**External JS Advantages**](#External-JS-Advantages)      
