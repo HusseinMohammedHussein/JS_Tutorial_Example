@@ -74,7 +74,7 @@
             </body>
           </html>
       ```        
-## <u> Where can I use JavaScript? </u>
+## Where can I use JavaScript?
 
 * In **HTML** Element by **onclick** attribute.
     - **Ex:**
