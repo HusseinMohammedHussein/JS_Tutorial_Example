@@ -1,9 +1,19 @@
 # Index:
-  1) [**Introduction to JavaScript**](#Introduction-to-JavaScript) 
+  1) [**Introduction to JavaScript**](#Introduction-to-JavaScript)
+      * [**JS With HTML**](#JS-With-HTML)
+      * [**Where can I use JavaScript?**](#Where-can-I-use-JavaScript?)      
+      * [**JS Functions and Events**](#JS-Functions-and-Events:)
+      * [**External JavaScript**](#External-JavaScript)      
+      * [**External JS Advantages**](#External-JS-Advantages:)      
+      
+      
+      
+      
 
 # JS_Tutorial_Example
 ## Introduction to JavaScript <img src="http://innovativeteams.net/wp-content/uploads/2017/01/jsLogo.png" alt="JavaSript" width="30" height="30"/> 
 <!-- <img src="http://innovativeteams.net/wp-content/uploads/2017/01/jsLogo.png" alt="JavaSript" width="30" height="30"/> -->
+### JS With HTML:
 * Can be find **HTML** element in **JavaScript** by **ID_Name** of element.
     - **Ex:**
         ```html 
@@ -110,7 +120,7 @@
       ***Note: 1) Placing scripts at the bottom of the body element improves the display speed, because script interpretation slows down the display.*** <br/>
             ***2) Can be place more than one of script tag in a HTML doc.***
 
-## <u> JS Functions and Events: </u>
+## JS Functions and Events:
   *	**Function:**
     -	Is block of **JavaScript** Code, execute when called.
      - **Ex:**
@@ -129,7 +139,7 @@
             </html>
        ```             
        
-## <u> External JavaScript </u>
+## External JavaScript
 
 *	To use **Script** from an external file, put the name of the **Script** file in ***src*** attribute of a **Script** tag.
 *	Can be use money of external **Script**  in **HTML** Doc by ***src*** attribute of **Script** tag, but should be different name of external **Script**.
@@ -150,7 +160,8 @@
 ***Note: External script cannot use script tags***.
 
 ### External JS Advantages:
-* ***It separates HTML and JS code.***
-* ***It make HTML and JS code easier to read and maintain.***
-* ***Cached JS files can speed up page load.***
+* **Placing scripts in external files has some advantages:**
+  - ***It separates HTML and JS code.***
+  - ***It make HTML and JS code easier to read and maintain.***
+  - ***Cached JS files can speed up page load.***
 
