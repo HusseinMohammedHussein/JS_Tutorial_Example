@@ -1,5 +1,8 @@
+# Index:
+  1) [**Introduction to JavaScript**](#Introduction-to-JavaScript) 
+
 # JS_Tutorial_Example
-## <u> Introduction to JavaScript <img src="http://innovativeteams.net/wp-content/uploads/2017/01/jsLogo.png" alt="JavaSript" width="30" height="30"/> </u>
+## Introduction to JavaScript <img src="http://innovativeteams.net/wp-content/uploads/2017/01/jsLogo.png" alt="JavaSript" width="30" height="30"/> 
 <!-- <img src="http://innovativeteams.net/wp-content/uploads/2017/01/jsLogo.png" alt="JavaSript" width="30" height="30"/> -->
 * Can be find **HTML** element in **JavaScript** by **ID_Name** of element.
     - **Ex:**
@@ -145,3 +148,9 @@
 
 
 ***Note: External script cannot use script tags***.
+
+### External JS Advantages:
+* ***It separates HTML and JS code.***
+* ***It make HTML and JS code easier to read and maintain.***
+* ***Cached JS files can speed up page load.***
+
