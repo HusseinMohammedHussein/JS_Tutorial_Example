@@ -1,4 +1,6 @@
-# Index:
+# JS_Tutorial_Example
+
+## Index:
 1) [**Introduction to JavaScript**](#Introduction-to-JavaScript)
    * [**JS With HTML**](#JS-With-HTML)
    * [**Where can I use JavaScript?**](#Where-can-I-use-JavaScript)      
@@ -6,11 +8,6 @@
    * [**External JavaScript**](#External-JavaScript)      
    * [**External JS Advantages**](#External-JS-Advantages)      
       
-      
-      
-      
-
-# JS_Tutorial_Example
 ## Introduction to JavaScript <img src="http://innovativeteams.net/wp-content/uploads/2017/01/jsLogo.png" alt="JavaSript" width="30" height="30"/> 
 <!-- <img src="http://innovativeteams.net/wp-content/uploads/2017/01/jsLogo.png" alt="JavaSript" width="30" height="30"/> -->
 ### JS With HTML:
